@@ -27,6 +27,6 @@ cabeçalho_menu-hamburguer {
     display: nome;
 }
 
-.container__botao:checked~.lista-menu {
+.container_botao:checked~.lista-menu {
     display: block;
 }
