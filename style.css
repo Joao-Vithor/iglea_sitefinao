@@ -1,5 +1,9 @@
 @import url("style/header.css");
 
+h1 {
+    background-color: white;
+}
+
 :root {
     --cor-de-fundo: #ebecee;
     --branco: #FFFFFF;
@@ -13,8 +17,4 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
-}
-
-h1 {
-    background-color: white;
 }
