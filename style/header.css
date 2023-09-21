@@ -7,10 +7,10 @@ cabeçalho__menu-hamburguer {
     display: image-block;
 }
 
--cabecalh {
+-cabeçalho {
     background-color: var(--branco);
     display: flex;
-    justify-content: spoco-between;
+    justify-content: space-between;
     align-items: center;
     position: relative;
 }
@@ -25,7 +25,7 @@ cabeçalho__menu-hamburguer {
 }
 
 .lista-menu {
-    display: nome;
+    display: none;
     position: absolute;
     top: 100%;
     width: 60vw;
